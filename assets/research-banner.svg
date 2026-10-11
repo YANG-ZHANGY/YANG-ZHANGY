@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+<title id="title">Yang Zhang — Comparative Politics and International Political Economy</title>
+<desc id="desc">An academic profile banner in navy, ivory and muted gold, with an abstract network of connected institutions.</desc>
+<rect width="1280" height="320" rx="16" fill="#112731"/>
+<path d="M0 300H1280" stroke="#bdad7e" stroke-width="4"/>
+<text x="64" y="65" fill="#bdad7e" font-family="Arial, sans-serif" font-size="15" letter-spacing="4">POLITICAL SCIENCE / RESEARCH</text>
+<text x="60" y="146" fill="#f4f1e8" font-family="Georgia, serif" font-size="68">Yang Zhang</text>
+<text x="64" y="199" fill="#f4f1e8" font-family="Arial, sans-serif" font-size="25">Comparative Politics &amp; International Political Economy</text>
+<text x="64" y="251" fill="#a9bdc4" font-family="Arial, sans-serif" font-size="16" letter-spacing="2">INSTITUTIONS  ·  POLITICAL CONFLICT  ·  REPRODUCIBLE RESEARCH</text>
+<g stroke="#45606a" stroke-width="1.5" fill="none">
+<path d="M987 66L1101 111L1192 59M987 66L1017 190L1101 111L1194 238L1017 190L1134 271M1101 111L1192 59L1194 238M987 66L1134 271"/>
+<circle cx="1101" cy="111" r="61" stroke="#29444f"/>
+</g>
+<g fill="#bdad7e"><circle cx="987" cy="66" r="5"/><circle cx="1101" cy="111" r="8"/><circle cx="1192" cy="59" r="5"/><circle cx="1017" cy="190" r="5"/><circle cx="1194" cy="238" r="5"/><circle cx="1134" cy="271" r="4"/></g>
+</svg>
