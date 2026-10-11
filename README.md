@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/YANG-ZHANGY/YANGResearch">Research &amp; code</a> ·
   <a href="https://doi.org/10.7910/DVN/B2ZUV8">Dataverse</a> ·
-  <a href="https://doi.org/10.2139/ssrn.5352214">SSRN preprint</a> ·
+  <a href="https://doi.org/10.1080/13572334.2026.2708491">Journal article</a> ·
   <a href="https://www.linkedin.com/in/yang-zhang-38b39b28b">LinkedIn</a> ·
   <a href="https://github.com/YANG-ZHANGY/YANG-ZHANGY/blob/main/README.zh-Hant.md">繁體中文</a>
 </p>
@@ -32,9 +32,9 @@ My research interests lie in **comparative politics and international political 
 
 When does parliamentary competition escalate into physical violence? This project examines party institutionalisation, party-system closure, and polarisation across European legislatures.
 
-**Public preprint** · **Replication deposit v2.0** · **Python & R**
+**Published in The Journal of Legislative Studies** · **Replication deposit v2.0** · **Python & R**
 
-[Read the preprint](https://doi.org/10.2139/ssrn.5352214) · [Get the deposited package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/B2ZUV8&version=2.0) · [Browse replication code](https://github.com/YANG-ZHANGY/YANGResearch/tree/main/published-research/legislative-violence-replication)
+[Read the published article](https://doi.org/10.1080/13572334.2026.2708491) · [Get the deposited package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/B2ZUV8&version=2.0) · [Browse replication code](https://github.com/YANG-ZHANGY/YANGResearch/tree/main/published-research/legislative-violence-replication)
 
 The code companion documents the archived-panel workflow, variable definitions, source provenance, and the limits of the Hybrid Poisson reconstruction. The versioned Dataverse deposit is the reference for the complete package.
 
