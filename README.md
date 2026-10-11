@@ -12,27 +12,27 @@
 
 ## About
 
-I am an MPhil student in Politics and Public Administration at **Hong Kong Metropolitan University**, with an MA in Politics and Governance from the **University of Tartu**.
+I am an MPhil student in Politics and Public Administration at <strong>Hong Kong Metropolitan University</strong>, with an MA in Politics and Governance from the <strong>University of Tartu</strong>.
 
-My research interests lie in **comparative politics and international political economy**: political institutions, authoritarian governance, Chinese political economy, and political behaviour in Taiwan. I also work on comparative public policy, including asylum-policy change. This GitHub brings together public research code, replication documentation, and methodological resources.
+My research interests lie in <strong>comparative politics and international political economy</strong>: political institutions, authoritarian governance, Chinese political economy, and political behaviour in Taiwan. I also work on comparative public policy, including asylum-policy change. This GitHub brings together public research code, replication documentation, and methodological resources.
 
 ## Research focus
 
 | Area | Questions and interests |
 | :--- | :--- |
-| **Institutions & political conflict** | Party organisation, legislative violence, authoritarian governance, and political careers. |
-| **China & international political economy** | Chinese foreign aid and lending, international relations, and political change in the Global South. |
-| **Political behaviour & public policy** | Taiwanese identities and electoral politics; comparative asylum-policy change. |
+| <strong>Institutions & political conflict</strong> | Party organisation, legislative violence, authoritarian governance, and political careers. |
+| <strong>China & international political economy</strong> | Chinese foreign aid and lending, international relations, and political change in the Global South. |
+| <strong>Political behaviour & public policy</strong> | Taiwanese identities and electoral politics; comparative asylum-policy change. |
 
 ## Featured public research
 
 ### When Conflict Leaves the Rules
 
-**Party Institutionalisation, System Closure and Legislative Violence in Europe**
+<strong>Party Institutionalisation, System Closure and Legislative Violence in Europe</strong>
 
 When does parliamentary competition escalate into physical violence? This project examines party institutionalisation, party-system closure, and polarisation across European legislatures.
 
-**Published in The Journal of Legislative Studies** · **Replication deposit v2.0** · **Python & R**
+<strong>Published in The Journal of Legislative Studies</strong> · <strong>Replication deposit v2.0</strong> · <strong>Python & R</strong>
 
 [Read the published article](https://doi.org/10.1080/13572334.2026.2708491) · [Get the deposited package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/B2ZUV8&version=2.0) · [Browse replication code](https://github.com/YANG-ZHANGY/YANGResearch/tree/main/published-research/legislative-violence-replication)
 
@@ -40,9 +40,9 @@ The code companion documents the archived-panel workflow, variable definitions, 
 
 ## Methods & workflow
 
-**Methods:** panel analysis, fixed-effects models, event-level diagnostics, survey analysis, network exposure measures, and computational text analysis.
+<strong>Methods:</strong> panel analysis, fixed-effects models, event-level diagnostics, survey analysis, network exposure measures, and computational text analysis.
 
-**Tools:** R · Python · Stata · Jupyter · LaTeX · GitHub
+<strong>Tools:</strong> R · Python · Stata · Jupyter · LaTeX · GitHub
 
 I use GitHub to make analytical choices inspectable: documenting variables, keeping code alongside methodological notes, and identifying the data version behind a result.
 
