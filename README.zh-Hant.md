@@ -24,9 +24,9 @@
 
 議會內的政治競爭在什麼條件下演變為肢體暴力？這項研究以歐洲議會為對象，分析政黨制度化、政黨體系封閉性與極化。
 
-**公開預印本** · **重現資料包 2.0 版** · **Python 與 R**
+**已刊於 The Journal of Legislative Studies** · **重現資料包 2.0 版** · **Python 與 R**
 
-[閱讀預印本](https://doi.org/10.2139/ssrn.5352214) · [取得完整資料包](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/B2ZUV8&version=2.0) · [瀏覽重現程式](https://github.com/YANG-ZHANGY/YANGResearch/tree/main/published-research/legislative-violence-replication)
+[閱讀期刊論文](https://doi.org/10.1080/13572334.2026.2708491) · [取得完整資料包](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/B2ZUV8&version=2.0) · [瀏覽重現程式](https://github.com/YANG-ZHANGY/YANGResearch/tree/main/published-research/legislative-violence-replication)
 
 程式庫附有面板資料分析流程、變數定義、資料來源與 Hybrid Poisson 重建的限制說明。完整套件以 Dataverse 的版本化存檔為準。
 
