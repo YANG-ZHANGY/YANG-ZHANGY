@@ -14,15 +14,20 @@
 
 I am an MPhil student in Politics and Public Administration at <strong>Hong Kong Metropolitan University</strong>, with an MA in Politics and Governance from the <strong>University of Tartu</strong>.
 
-My research interests lie in <strong>comparative politics and international political economy</strong>: political institutions, authoritarian governance, Chinese political economy, and political behaviour in Taiwan. I also work on comparative public policy, including asylum-policy change. This GitHub brings together public research code, replication documentation, and methodological resources.
+My research interests lie in <strong>comparative politics and international political economy</strong>: political institutions, authoritarian governance, Chinese political economy, and political behaviour in Taiwan. This GitHub brings together public research code, replication documentation, and methodological resources.
 
-## Research focus
+## Research themes
 
-| Area | Questions and interests |
+| Theme | Questions and interests |
 | :--- | :--- |
-| <strong>Institutions & political conflict</strong> | Party organisation, legislative violence, authoritarian governance, and political careers. |
-| <strong>China & international political economy</strong> | Chinese foreign aid and lending, international relations, and political change in the Global South. |
-| <strong>Political behaviour & public policy</strong> | Taiwanese identities and electoral politics; comparative asylum-policy change. |
+| [Democracy and Political Behaviour](https://github.com/YANG-ZHANGY/democracy-and-political-behaviour) | Democratic commitments, institutional constraints and the political meaning of public support. |
+| [Parties, Elections and Political Careers](https://github.com/YANG-ZHANGY/parties-elections-and-political-careers) | Party organisation, political competition, electoral signals and careers across levels of government. |
+| [Authoritarian Governance and Digital Control](https://github.com/YANG-ZHANGY/authoritarian-governance-and-digital-control) | Elite continuity, cross-border coercion and the political organisation of communications control. |
+| [China, Finance and Development Governance](https://github.com/YANG-ZHANGY/china-finance-and-development) | Official finance, local development and the institutional design of development governance. |
+| [Civic Participation and Representation](https://github.com/YANG-ZHANGY/civic-participation-and-representation) | Associational life, environmental participation and the political relationships behind representation. |
+| [Asian Political Economy and Global Influence](https://github.com/YANG-ZHANGY/asian-political-economy-and-global-influence) | Institutional choice, Indigenous decision rights, entrepreneurial dynamism and international attraction. |
+
+The thematic repositories introduce research questions and ideas across my projects. English and Traditional Chinese versions are available throughout.
 
 ## Featured public research
 
@@ -42,7 +47,7 @@ The code companion documents the archived-panel workflow, variable definitions, 
 
 <strong>Methods:</strong> panel analysis, fixed-effects models, event-level diagnostics, survey analysis, network exposure measures, and computational text analysis.
 
-<strong>Tools:</strong> R · Python · Stata · Jupyter · LaTeX · GitHub
+<strong>Tools:</strong> R · Python · Stata · Jupyter · LaTeX · GitHub · Claude Code · Codex
 
 I use GitHub to make analytical choices inspectable: documenting variables, keeping code alongside methodological notes, and identifying the data version behind a result.
 
